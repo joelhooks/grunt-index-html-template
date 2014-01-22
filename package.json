@@ -2,22 +2,22 @@
   "name": "grunt-index-html-template",
   "description": "It replaces templated block in index.html with project javascripts as script tags so you don't need a manifest.",
   "version": "0.2.3",
-  "homepage": "http://joelhooks.com",
+  "homepage": "https://github.com/joelhooks/grunt-index-html-template",
   "author": {
-    "name": "Karl Goldstein",
-    "email": "karl.goldstein@gmail.com"
+    "name": "Joel Hooks",
+    "email": "joelhooks@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/karlgoldstein/grunt-html2js.git"
+    "url": "https://github.com/joelhooks/grunt-index-html-template.git"
   },
   "bugs": {
-    "url": "https://github.com/karlgoldstein/grunt-html2js/issues"
+    "url": "https://github.com/joelhooks/grunt-index-html-template/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/karlgoldstein/grunt-html2js/blob/master/LICENSE-MIT"
+      "url": "https://github.com/joelhooks/grunt-index-html-template/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
