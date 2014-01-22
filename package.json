@@ -1,7 +1,7 @@
 {
   "name": "grunt-index-html-template",
   "description": "It replaces templated block in index.html with project javascripts as script tags so you don't need a manifest.",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "homepage": "https://github.com/joelhooks/grunt-index-html-template",
   "author": {
     "name": "Joel Hooks",
